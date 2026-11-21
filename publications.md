@@ -2,6 +2,19 @@
 
 Публикации от 21 ноября 2026 года. Данные в примерах условные.
 
+## Отдельные публикации на новых площадках
+
+Проверено 21 ноября 2026 года. Четыре разных статьи опубликованы по одной на четырёх площадках.
+
+| Площадка | Статья | Примечание |
+| --- | --- | --- |
+| Output.pub | [Считаем деньги на Яндекс Маркете на тысячу показов предложения](https://output.pub/dpyvwpr8) | Иллюстрация в статье. |
+| Write.as | [Еженедельный разбор денег селлера Яндекс Маркета с ответственными](https://write.as/qbmyltxohjveh) | Иллюстрация открывается по ссылке внутри текста. |
+| BrewPage | [Прогноз систематически завышен. Как проверить аналитику Яндекс Маркета](https://brewpage.app/public/e9dncYg0W8) | Иллюстрация в статье. Ссылка действует до 21 декабря 2026 года. |
+| Njump | [Как считать долю доставленных заказов свежей недели на Яндекс Маркете](https://njump.me/naddr1qqshqmmddahx2ar994hhyer9wfjkgtt5dukkgetvd9mx2un9vskkzem9qyw8wumn8ghj7mn0wd68ytfsxgh8jcttd95x7mnwv5hxxmmdqyxhwumn8ghj7mn0wvhxcmmvqgsxev6qgldewsqslmmfu66ggd24u2kp4vglhdkhcuj2n6lqz9trzdgrqsqqqa28xkty86) | Иллюстрация в статье. Хранение зависит от реле Nostr. |
+
+## Исходные каталоги
+
 ## [GitHub Pages](https://airdevo-voktra.github.io/pomonete-market-field-guide/)
 
 ### Воронка продаж и видимость
