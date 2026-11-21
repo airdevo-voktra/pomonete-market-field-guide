@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://airdevo-voktra.github.io/pomonete-market-field-guide/sitemap.xml
